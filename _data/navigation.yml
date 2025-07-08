@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "CV"
+    url: /cv/
+    #description: "ma description"
+  - title: "Projets"
+    url: /projets/
+  - title: "Blog"
+    url: /blog/
+
+# nivigation bar
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /_pages/cv/
